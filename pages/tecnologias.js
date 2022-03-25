@@ -34,7 +34,7 @@ export default function Tecnologías() {
       rotate: [0, 0, 270, 270, 0],
       borderRadius: ["20%", "20%", "50%", "50%", "20%"],
     }}
-    ><img src='/html.png'/>
+    ><img src='/html.png' alt='h5'/>
     </motion.div>
     <motion.div className={styles.tecnos}
        animate={{
@@ -42,7 +42,7 @@ export default function Tecnologías() {
       rotate: [0, 0, 270, 270, 0],
       borderRadius: ["20%", "20%", "50%", "50%", "20%"],
     }}
-    ><img src='/css.png'/>
+    ><img src='/css.png' alt='c3'/>
     </motion.div>
     <motion.div className={styles.tecnos}
        animate={{
@@ -50,7 +50,7 @@ export default function Tecnologías() {
       rotate: [0, 0, 270, 270, 0],
       borderRadius: ["20%", "20%", "50%", "50%", "20%"],
     }}
-    ><img src='/javascript.png'/>
+    ><img src='/javascript.png' alt='js'/>
     </motion.div>
     <motion.div className={styles.tecnos}
        animate={{
@@ -58,7 +58,7 @@ export default function Tecnologías() {
       rotate: [0, 0, 270, 270, 0],
       borderRadius: ["20%", "20%", "50%", "50%", "20%"],
     }}
-    ><img src='/bootstrap.png'/>
+    ><img src='/bootstrap.png' alt='bt'/>
     </motion.div>
     <motion.div className={styles.tecnos}
        animate={{
@@ -66,7 +66,7 @@ export default function Tecnologías() {
       rotate: [0, 0, 270, 270, 0],
       borderRadius: ["20%", "20%", "50%", "50%", "20%"],
     }}
-    ><img src='/react.png'/>
+    ><img src='/react.png' alt='rct'/>
     </motion.div>
     <motion.div className={styles.tecnos}
        animate={{
@@ -74,7 +74,7 @@ export default function Tecnologías() {
       rotate: [0, 0, 270, 270, 0],
       borderRadius: ["20%", "20%", "50%", "50%", "20%"],
     }}
-    ><img src='/nextjs.png'/>
+    ><img src='/nextjs.png' alt='njs'/>
     </motion.div>
     <motion.div className={styles.tecnos}
        animate={{
@@ -82,7 +82,7 @@ export default function Tecnologías() {
       rotate: [0, 0, 270, 270, 0],
       borderRadius: ["20%", "20%", "50%", "50%", "20%"],
     }}
-    ><img src='/node.png'/>
+    ><img src='/node.png' alt='nd'/>
     </motion.div>
     <motion.div className={styles.tecnos}
        animate={{
@@ -90,7 +90,7 @@ export default function Tecnologías() {
       rotate: [0, 0, 270, 270, 0],
       borderRadius: ["20%", "20%", "50%", "50%", "20%"],
     }}
-    ><img src='/express.png'/>
+    ><img src='/express.png' alt='xp'/>
     </motion.div>
     <motion.div className={styles.tecnos}
        animate={{
@@ -98,7 +98,7 @@ export default function Tecnologías() {
       rotate: [0, 0, 270, 270, 0],
       borderRadius: ["20%", "20%", "50%", "50%", "20%"],
     }}
-    ><img src='/jest.png'/>
+    ><img src='/jest.png' alt='jt'/>
     </motion.div>
     <motion.div className={styles.tecnos}
        animate={{
@@ -106,7 +106,7 @@ export default function Tecnologías() {
       rotate: [0, 0, 270, 270, 0],
       borderRadius: ["20%", "20%", "50%", "50%", "20%"],
     }}
-    ><img src='/mysql.png'/>
+    ><img src='/mysql.png' alt='mql'/>
     </motion.div>
     <motion.div className={styles.tecnos}
        animate={{
@@ -114,7 +114,7 @@ export default function Tecnologías() {
       rotate: [0, 0, 270, 270, 0],
       borderRadius: ["20%", "20%", "50%", "50%", "20%"],
     }}
-    ><img src='/github.png'/>
+    ><img src='/github.png' alt='gh'/>
     </motion.div>
     <motion.div className={styles.tecnos}
        animate={{
@@ -122,7 +122,7 @@ export default function Tecnologías() {
       rotate: [0, 0, 270, 270, 0],
       borderRadius: ["20%", "20%", "50%", "50%", "20%"],
     }}
-    ><img src='/git.png'/>
+    ><img src='/git.png' alt='gt'/>
     </motion.div>
                      
           </div>
