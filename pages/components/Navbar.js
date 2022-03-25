@@ -6,7 +6,7 @@ export default function Navbar() {
         <div className="container">
           <Link href="./">
           <a className="navbar-brand" >
-            Mariana N. Cervantes
+            Mariana Cervantes
           </a>
           </Link>
          
