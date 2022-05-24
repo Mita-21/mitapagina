@@ -34,22 +34,20 @@ export default function Home() {
               <p>Te encuentras navegando en una página realizada con Nextjs</p>
             </a>
 
-            <a href="https://github.com/Mita-21/React-Redux" className={styles.card}>
+            <a href="https://github.com/Mita-21/React-Redux"  target={"new"} className={styles.card}>
               <h2>React Redux &rarr;</h2>
               <p>Implementación de React Redux en un proyecto simple pero conciso</p>
             </a>
 
             <a
-              href="https://github.com/Mita-21/React-Context"
-              className={styles.card}
+              href="https://github.com/Mita-21/React-Context"  target={"new"} className={styles.card}
             >
               <h2>React Context &rarr;</h2>
               <p>Beneficios y claras diferencias de utilizar o no utilizar Context</p>
             </a>
 
             <a
-              href="https://github.com/Mita-21/Testing-"
-              className={styles.card}
+              href="https://github.com/Mita-21/Testing-"  target={"new"} className={styles.card}
             >
               <h2>Testing &rarr;</h2>
               <p>
