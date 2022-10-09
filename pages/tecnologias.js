@@ -33,8 +33,9 @@ export default function Tecnologías() {
 
       <div className={styles.main}>
         <div className={styles.gridTecnos}>
-        {tecnos.map ((foto, i) => (
+        {tecnos.map ((foto, alt) => (
           <motion.div
+            key = {alt}
             className={styles.tecnos}
             animate={{
               scale: [1, 2, 2, 1, 1],
