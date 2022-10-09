@@ -24,16 +24,14 @@ export default function MiPerfil() {
         </motion.div>
       
         <div className="card border-light my-5 row g-0">
-          <div className="row g-0">
-           
+          <div className="row g-0">           
               <Image 
                 src="/Mita.jpg"
                 className="mx-4"
                 alt="foto"
                 width={250}
                 height={320}
-              />
-          
+              />          
             <div className="col-md-9">
               <div className="card-body mx-4">
                 <h3 className="card-title">Mariana Noemi Cervantes</h3>
