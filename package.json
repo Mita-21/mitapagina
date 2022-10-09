@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "engines": {
-    "node": "14.15.4"
+    "node": ">=0.7.0 <=18.4.0"
   },
   "dependencies": {
     "-": "^0.0.1",
