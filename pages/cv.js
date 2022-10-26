@@ -34,7 +34,7 @@ export default function CV() {
            </div>
             <a
               className={styles.zoom}
-              href="/Curriculum_MarianaCervantes.pdf"
+              href="/CurriculumMariana_Cervantes.pdf"
               download="CurriculumMarianaCervantes"
             >
               <button
