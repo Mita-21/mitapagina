@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Footer() {
     return (
-      <footer className="text-center text-lg-start bg-dark">
+      <footer className="text-center text-lg-start bg-primary">
         <div className="container d-flex justify-content-center py-3">
           <button
             type="button"

@@ -1,5 +1,5 @@
 
-import 'bootswatch/dist/quartz/bootstrap.min.css'
+import 'bootswatch/dist/flatly/bootstrap.min.css'
 
 
 function MyApp({ Component, pageProps }) {

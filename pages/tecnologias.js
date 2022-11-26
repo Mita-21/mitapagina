@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 export default function Tecnologías() {
 
- const tecnos = ["/html.png","/css.png", "/javascript.png","/bootstrap.png","/react.png", "/nextjs.png", "/node.png","/express.png", "/jest.png", "/mysql.png", "/github.png", "/git.png"];
+ const tecnos = ["/html.png","/css.png", "/javascript.png","/bootstrap.png","/react.png", "/next.png", "/node.png","/express.png", "/jest.png", "/mysql.png", "/github.png", "/git.png"];
 
   return (
     <Layout>

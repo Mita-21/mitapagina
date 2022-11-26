@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Navbar() {
     return (
-      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+      <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
         <div className="container">
           <Link href="./">
           <a className="navbar-brand" >
@@ -14,7 +14,7 @@ export default function Navbar() {
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
                 <Link href="./cv">
-                  <a className="nav-link active" aria-current="page">
+                  <a className="nav-link" aria-current="page">
                     CV
                   </a>
                 </Link>
