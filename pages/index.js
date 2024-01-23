@@ -22,36 +22,44 @@ export default function Home() {
             delay: .7
           }
         }
-      }} >
-          <h1 className={styles.title}>Bienvenido a mi página</h1>
+      }} >         
+          <h2 className={styles.title}>Mis Proyectos</h2>
           </motion.div>
         </header>
 
         <main className={styles.main}>
           <div className={styles.grid}>
-            <a href="./" className={styles.card}>
-              <h2>Nextjs &rarr;</h2>
-              <p>Te encuentras navegando en una página realizada con Nextjs</p>
+            <a href="https://restocode.netlify.app/" target={"new"} className={styles.card}>
+              <h2>Resto Code &rarr;</h2>
+              <p>Esta página web constituye un sistema integral 
+                para la gestión de un restaurante, desarrollado 
+                mediante el stack MERN.</p>
             </a>
 
-            <a href="https://github.com/Mita-21/React-Redux"  target={"new"} className={styles.card}>
-              <h2>React Redux &rarr;</h2>
-              <p>Implementación de React Redux en un proyecto simple pero conciso</p>
-            </a>
-
-            <a
-              href="https://github.com/Mita-21/React-Context"  target={"new"} className={styles.card}
-            >
-              <h2>React Context &rarr;</h2>
-              <p>Beneficios y claras diferencias de utilizar o no utilizar Context</p>
+            <a href="https://rollingmerch.netlify.app"  target={"new"} className={styles.card}>
+              <h2>Rolling Merch &rarr;</h2>
+              <p>ECommerce diseñado para la compra de 
+                merchandising de Rolling, desarrollado 
+                con HTML, CSS, JavaScript y Bootstrap. </p>
             </a>
 
             <a
-              href="https://github.com/Mita-21/Testing-"  target={"new"} className={styles.card}
+              href="https://fitwear-rolling.netlify.app/"  target={"new"} className={styles.card}
             >
-              <h2>Testing &rarr;</h2>
+              <h2>FitWear &rarr;</h2>
+              <p>Sitio desarrollado para la venta de ropa deportiva, 
+                utilizando HTML, CSS y Bootstrap para cumplir con los
+                requisitos iniciales de diseño.</p>
+            </a>
+
+            <a
+              href="https://app-de-cine.vercel.app/"  target={"new"} className={styles.card}
+            >
+              <h2>App de Cine &rarr;</h2>
               <p>
-                Testeo de proyecto con la implementación de Jest y React Testing Library
+              Desarrollo de un desafío utilizando la tecnología React
+              y la integración de datos provenientes de la API 
+              de The Movie Database (TMDB).
               </p>
             </a>
           </div>
