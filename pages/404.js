@@ -5,6 +5,11 @@ import Layout from "./components/Layout";
 const custom404 = () => (
   <Layout title="Page Not Found">
     <div className="text-center">
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
       <h1 className="display-1">404</h1>
       <p>
         Esta página no existe, por favor vuelve a {" "}
@@ -12,6 +17,11 @@ const custom404 = () => (
           <a>Inicio</a>
         </Link>
       </p>
+      <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
     </div>
   </Layout>
 );
